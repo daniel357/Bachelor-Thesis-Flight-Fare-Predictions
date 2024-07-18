@@ -46,13 +46,7 @@ The primary goal of this project is to develop a machine learning model that acc
     ```bash
     npm run dev
     ```
-
-## Usage
-1. Navigate to the home page of the application.
-2. Enter your travel details including search and departure dates.
-3. Submit the form to receive the optimal time to purchase your flight tickets.
-4. Optionally, enter your email address to receive the prediction information.
-
+    
 ## Dataset
 The dataset used in this project is sourced from Kaggle, specifically the "Flight Prices" dataset. It contains comprehensive historical flight fare data.
 ## Owner: https://www.kaggle.com/datasets/dilwong/flightprices
